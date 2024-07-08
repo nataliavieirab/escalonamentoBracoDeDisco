@@ -1,6 +1,6 @@
 ✰ Simulador de algoritmos de escalonamento de braço de disco em Python! :)
 
-Nesse projeto rolou o desenvolvimento de um simulador para algoritmos de escalonamento de braço de disco. 
+Nesse projeto abrange o desenvolvimento de um simulador para algoritmos de escalonamento de braço de disco. 
 O simulador tem seguintes características:
 ✰ Simulação dos algoritmos SCAN, C-SCAN, SSTF e FCFS;
 ✰ Os pedidos de acesso são lidos a partir de um arquivo .csv ou .txt;
